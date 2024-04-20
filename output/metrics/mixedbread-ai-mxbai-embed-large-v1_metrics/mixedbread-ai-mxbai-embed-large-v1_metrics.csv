@@ -1,0 +1,2 @@
+Model,F1 Score,Precision,Recall,ROC AUC,True Positives,False Positives,False Negatives,True Negatives
+mixedbread-ai/mxbai-embed-large-v1,0.042091836734693876,0.02151238591916558,0.9705882352941176,0.9575858477464967,66,3002,2,4906

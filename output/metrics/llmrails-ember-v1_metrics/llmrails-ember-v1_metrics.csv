@@ -1,0 +1,2 @@
+Model,F1 Score,Precision,Recall,ROC AUC,True Positives,False Positives,False Negatives,True Negatives
+llmrails/ember-v1,0.1010719754977029,0.05331179321486268,0.9705882352941176,0.9590581997222574,66,1172,2,6736

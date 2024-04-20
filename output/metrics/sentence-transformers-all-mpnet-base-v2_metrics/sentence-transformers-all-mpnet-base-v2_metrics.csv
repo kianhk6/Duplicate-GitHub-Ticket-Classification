@@ -1,0 +1,2 @@
+Model,F1 Score,Precision,Recall,ROC AUC,True Positives,False Positives,False Negatives,True Negatives
+sentence-transformers/all-mpnet-base-v2,0.3931623931623932,0.27710843373493976,0.6764705882352942,0.9680935172326726,46,120,22,7788

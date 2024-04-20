@@ -1,0 +1,2 @@
+Model,F1 Score,Precision,Recall,ROC AUC,True Positives,False Positives,False Negatives,True Negatives
+sentence-transformers/all-MiniLM-L12-v2,0.2818181818181818,0.20394736842105263,0.45588235294117646,0.9189527837394269,31,121,37,7787

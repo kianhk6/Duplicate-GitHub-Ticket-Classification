@@ -1,0 +1,2 @@
+Model,F1 Score,Precision,Recall,ROC AUC,True Positives,False Positives,False Negatives,True Negatives
+sentence-transformers/all-distilroberta-v1,0.48447204968944096,0.41935483870967744,0.5735294117647058,0.9630657429617473,39,54,29,7854

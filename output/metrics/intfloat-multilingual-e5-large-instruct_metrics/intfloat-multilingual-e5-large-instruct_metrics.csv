@@ -1,0 +1,2 @@
+Model,F1 Score,Precision,Recall,ROC AUC,True Positives,False Positives,False Negatives,True Negatives
+intfloat/multilingual-e5-large-instruct,0.01690701143709597,0.008525576730190571,1.0,0.9599119429364981,68,7908,0,0

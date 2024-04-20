@@ -1,0 +1,2 @@
+Model Name,F1,Precision,Recall,TP,FP,FN,TN,Loss,ROC AUC,Embeddings Shape
+multi-qa-mpnet-base-dot-v1,0,0,0,0,0,0,3998714,tensor(0.8716),nan,"(3000, 3)"

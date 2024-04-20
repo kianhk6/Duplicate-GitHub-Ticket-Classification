@@ -1,0 +1,2 @@
+Model,F1 Score,Precision,Recall,ROC AUC,True Positives,False Positives,False Negatives,True Negatives
+avsolatorio/GIST-large-Embedding-v0,0.15924426450742238,0.08766716196136701,0.8676470588235294,0.9589122269915415,59,614,9,7294
