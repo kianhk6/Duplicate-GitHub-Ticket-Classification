@@ -1,27 +1,5 @@
 # Document-Level Embeddings for Duplicate GitHub Issue Detection
 
-## Authors &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;|   Contributions
-
-<table>
-    <tr>
-        <td>Misha Sinitcyn</td>
-        <td>msa242</td>
-        <td>Data Collection, Repository Setup, ETL, EDA, Model Analysis, Report</td>
-    </tr>
-    <tr>
-        <td>Rohan Parmar</td>
-        <td>rpa56</td>
-        <td>Automating pipeline implementation, Large sampling, Debugging, Embedding experimentation, report</td>
-    </tr>
-    <tr>
-        <td>Kian Hosseinhani</td>
-        <td>kha98</td>
-        <td>127 Sampling, evaluation implementation, MTEB leaderboard model analysis, report, future plans</td>
-    </tr>
-</table>
-
-
-
 ## Setup
 
 ### Quickstart
