@@ -3,11 +3,7 @@
 ## Setup
 
 ### Quickstart
-Clone this repository:
-
-`
-git clone git@github.sfu.ca/msa242/CMPT413-Final-Project
-`
+Clone this repository
 
 Setting up your virtual environment and installing the required packages:
 
