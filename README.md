@@ -1,8 +1,8 @@
 # Document-Level Embeddings for Duplicate GitHub Issue Detection
 ## Research paper: [Duplicate_Ticket_Classification.pdf](https://github.com/kianhk6/Duplicate-GitHub-Ticket-Classification/files/15084423/Duplicate_Ticket_Classification.pdf)
+## please for current developement check the improvement from baseline section
 
 ## Setup
-### please for current developement check the improvement from baseline section
 ### Quickstart
 Clone this repository
 
